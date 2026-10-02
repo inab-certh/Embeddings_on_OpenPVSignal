@@ -1,0 +1,20 @@
+env/
+venv/
+.env
+
+# python cache
+__pycache__/
+*.py[cod]
+
+# jupyter
+.ipynb_checkpoints/
+.jpserver*.html
+
+# IDEs
+.vscode/
+.vs/
+.idea/
+
+lib/
+
+#large files
